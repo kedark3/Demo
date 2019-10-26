@@ -1,0 +1,4 @@
+This file contains all the todo feature items.
+
+* To add more lines to README
+* To delete unnecessary files
