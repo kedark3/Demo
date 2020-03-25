@@ -1,1 +1,2 @@
 Hello this is first test file
+This is my second line for merge test
