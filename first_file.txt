@@ -1,0 +1,4 @@
+Hello this is first test file
+This is my second line for merge test
+Hello from new branch
+Hello fourth line
