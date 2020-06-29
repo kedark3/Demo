@@ -4,8 +4,8 @@ updateBranch: true
 deleteBranchAfterMerge: false
 reportStatus: true
 
-#minApprovals:
-#  FIRST_TIMER: 1
+minApprovals:
+  OWNER: 0
 maxRequestedChanges:
   NONE: 0
 blockingLabels:
@@ -14,7 +14,7 @@ blockingLabels:
 # Will merge whenever the above conditions are met, but also
 # the owner has approved or merge label was added.
 rules:
-#- minApprovals:
-#    FIRST_TIMER: 1
+- minApprovals:
+    OWNER: 0
 - requiredLabels:
   - merge
