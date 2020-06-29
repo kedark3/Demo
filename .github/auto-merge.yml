@@ -15,6 +15,6 @@ blockingLabels:
 # the owner has approved or merge label was added.
 rules:
 - minApprovals:
-    OWNER: 0
+    OWNER: 1
 - requiredLabels:
   - merge
