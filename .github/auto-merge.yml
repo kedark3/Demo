@@ -5,7 +5,7 @@ deleteBranchAfterMerge: false
 reportStatus: true
 
 minApprovals:
-  COLLABORATOR: 0
+  NONE: 0
 maxRequestedChanges:
   NONE: 0
 blockingLabels:
