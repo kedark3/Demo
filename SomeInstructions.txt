@@ -1,0 +1,1 @@
+1) Run the git clone command in the directory where you wish to have the repository in your local system.
