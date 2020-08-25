@@ -1,1 +1,10 @@
 some test file
+---
+- playbook
+	- myplay
+	- myplay2
+
+- myplaybook2
+- myplaybook3
+- myplaybook4
+
