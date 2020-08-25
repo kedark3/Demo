@@ -12,9 +12,6 @@ devices:
   sc0002-culper-ring:
     hostname: sc0002-culper
     site: syd01
-  sc0003-culper-ring:
-    hostname: sc0003-culper
-    site: hk01
   sc0004-culper-ring:
     hostname: sc0004-culper
     site: sz01
