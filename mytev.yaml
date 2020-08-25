@@ -6,9 +6,6 @@ devices:
   sc44-old-culper-ring:
     hostname: sc44-old-culper
     site: lax100
-  sc0001-culper-ring:
-    hostname: sc0001-culper
-    site: par01
   sc0004-culper-ring:
     hostname: sc0004-culper
     site: sz01
