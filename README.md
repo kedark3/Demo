@@ -1,2 +1,4 @@
 #Demo
-Added another line to README.md
+
+Added newline character.
+Removed a line.
