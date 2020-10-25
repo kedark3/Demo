@@ -1,4 +1,7 @@
+Trying to do merge issues
+
 s is the base new txt file
 Was added for testing
 
+adding more nice info
 
