@@ -1,0 +1,13 @@
+######## steps for making a pull request on github ########
+1. fork desired repo
+2. clone forked repo to desktop --> git clone https://github.com/<YourUserName>/demo
+3. create new/personal branch in CMD --> git checkout -b <desired-branch-name>
+4. create new remote for upstream repo --> git remote add upstream <URL of actual repo forked>
+5. make desired changes to code as is necessary.
+6. ensure that work is to be pushed to new/personal repo created by typing --> git branch //check for the highlighted branch
+7. add work done to git working tree --> git add [-A | specific-name-of-file/folder edited]
+8. add commit message --> git commit -m 'message describing work you did'
+9. push to remote branch created --> git push -u origin <name-of-branch-you created>
+10. go on github (a COMPARE AND PULL REQUEST button will automatically show) use that to title and descibe work done and submit pull request.
+11. patiently wait for original owner of forked repo to merge request.
+12. once done, you supposedly get a 'collaborator badge of the month from Github' **kidding** 😂️
