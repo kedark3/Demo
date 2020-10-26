@@ -1,6 +1,6 @@
-######## steps for making a pull request on github ########
+######## steps for making a pull request on github with @Deeokafor and @kedark3########
 1. fork desired repo
-2. clone forked repo to desktop --> git clone https://github.com/<YourUserName>/demo
+2. clone forked repo to desktop --> <pre>git clone https://github.com/<YourUserName>/demo
 3. create new/personal branch in CMD --> git checkout -b <desired-branch-name>
 4. create new remote for upstream repo --> git remote add upstream <URL of actual repo forked>
 5. make desired changes to code as is necessary.
