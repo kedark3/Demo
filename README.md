@@ -1,2 +1,3 @@
 #Demo
-Added another line to README.md
+Added other line to README.md
+Change another to other in line above
