@@ -1,9 +1,5 @@
 blablabla
 if (blablabla > blablablabla) {
-  if (blablabla.blacount > 3) {
-    print (bla is more than just bla)
-  else {
-    print (idk what is bla)
-  }
+  print (bla is more than just bla)
   }
 }
