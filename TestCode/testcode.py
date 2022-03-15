@@ -1,0 +1,1 @@
+print("Test how forking works")
