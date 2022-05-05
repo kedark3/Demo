@@ -67,7 +67,6 @@ implement in sprints/releases
 ## Features to be tested
 According to Backlog such items and functionality of Mobile Assignment  should be tested:
 
-
 | Link to Jira  | Functional area  | Description Priority   |
 | -------------- | ------------ | -----------|
 | MA-09  | Search flow  | Integration with Google maps | high   |
@@ -75,11 +74,21 @@ According to Backlog such items and functionality of Mobile Assignment  should b
 ## Features not to be tested (for now)
 
 ## QA approach (strategy)
-After analysis the initial version of product and project overview we concluded that the following mix of testing strategies will be the most suitable for testing the product (it can be changed based on the project needs):
+After analysis the initial version of product and project overview conclusion was made to follow mix of testing strategies that will be the most suitable for testing the product (it can be changed based on the project needs):
 
 | Strategy  | Description  | Reasons to use  |
-| -------------- | ------------ | -----------|
-|  |  |  |
+| ----------| ------------ | -----------|
+| Agile     | Testing optimally adjusted to the Agile development methodology | Cause of SCRUM process chosen |
+| Requirements-based strategy | Most of the test documentation will be created based on requirements | Application functionality is supposed to be good documented it is good to base the most of testing on these documents | 
+| Dynamic Testing strategies: Experience-based testing | When thers is not enough time to analyze functionality for test beforehand and create test cases for it we will apply dynamic testing strategies like: Intuitive (experience based), exploratory, and bug-hunting. | If functionality comes to test prior to analysis and test design – to give earlier feedback about its quality, it is important to test it in advance. | 
+
+Manual Testing will be done for cases: 
+- If the application has new functionality
+- If the application requires testing once or twice
+
+Automated testing will be done for cases: 
+- If the regression test is repeated
+- A test app for complex scenarios
 
 ## Types of Testing
 Functional Testing of the user stories should execute according to the acceptance criteria.
@@ -113,6 +122,7 @@ Based on existing scope of work, planned activities and current backlog for Mobi
 | Full Name  | Position / Role  | Responsibilities      |
 | --- | --------- | ---------------- |
 | Irene Zheludenko  | AQA (IOS)     | Test Plan creation, Tasks Estimation, Requirement review/testing,Test Case/Checklist creation, Manual tests execution, Defects maintenance       |
+
 
 
 ## Item PASS/FAIL criteria
