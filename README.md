@@ -5,3 +5,4 @@ hello2
 ergasia sdbd 
 issue 1
 issue 2 
+terminal state
