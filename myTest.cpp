@@ -3,5 +3,7 @@
 
 void main()
 {
+    int val1 = 0;
+    
     return;
 }
