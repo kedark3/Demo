@@ -1,0 +1,14 @@
+phraseapp:
+  access_token: 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
+  project_id: ec84498e8a285fd4343ee566d1049cfa
+  file_format: json
+  push:
+    sources:
+    - file: ./src/locales/<locale_name>.json
+      params:
+        file_format: json
+  pull:
+    targets:
+    - file: ./src/locales/<locale_name>.json
+      params:
+        file_format: json
