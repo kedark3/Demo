@@ -1,0 +1,4 @@
+This is the 2nd text file.
+And its name is test2.
+Here is the next line also added.
+This is the final line of code.
