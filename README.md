@@ -1,2 +1,3 @@
-#Demo
-Added another line to README.md
+#Damarcus Jones Ai Chips 
+*Juntylpro Gaming Inc*
+*Damarcus Jones Professional*
